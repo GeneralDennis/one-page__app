@@ -1,5 +1,6 @@
 {
-  "webpack/app.css": "/webpack/css/app.css?e4daad01274be883fcef",
-  "webpack/app.js": "/webpack/js/app.js?e4daad01274be883fcef",
-  "webpack/vendors.js": "/webpack/js/vendors.js?e4daad01274be883fcef"
+  "webpack/app.css": "/webpack/css/app.css?3696c7ead6c24a18aef1",
+  "webpack/app.js": "/webpack/js/app.js?3696c7ead6c24a18aef1",
+  "webpack/vendors.css": "/webpack/css/vendors.css?3696c7ead6c24a18aef1",
+  "webpack/vendors.js": "/webpack/js/vendors.js?3696c7ead6c24a18aef1"
 }
